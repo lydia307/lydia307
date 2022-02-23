@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lydia307
+- 👋 Hi, I’m Lydia
 - 👀 I’m interested in internet security and online privacy
 - 🌱 I’m currently working for https://pandavpnpro.com
 
